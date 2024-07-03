@@ -47,6 +47,7 @@ public class SocialNetwork {
                 sn.addRelation(u.ID, friend.ID);
             }
         }
+        System.out.println("test b1");
         return sn.toString();
     }
 }
