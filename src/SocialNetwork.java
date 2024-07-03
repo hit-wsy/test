@@ -48,6 +48,7 @@ public class SocialNetwork {
             }
         }
         System.out.println("test b1");
+        System.out.println("test b2");
         return sn.toString();
     }
 }
